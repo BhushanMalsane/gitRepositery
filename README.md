@@ -1,2 +1,2 @@
 # gitRepositery
-# Cdac SDM project
+Cdac SDM project
